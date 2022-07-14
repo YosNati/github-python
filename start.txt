@@ -4,3 +4,5 @@ Test GitHub demo
 The second line in this text file ;)
 
 Add this line for add-copyright branch example
+
+Line for branch simple-changes
