@@ -5,3 +5,7 @@ The second line in this text file ;)
 
 Add this line for add-copyright branch example
 
+<<<<<<< HEAD
+=======
+Line for branch simple-changes
+>>>>>>> simple-changes
