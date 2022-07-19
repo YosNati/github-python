@@ -6,3 +6,5 @@ The second line in this text file ;)
 Add this line for add-copyright branch example
 
 4. Line 4
+
+5. line 5
